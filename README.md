@@ -1,5 +1,6 @@
-
-
+MXK-F722-Quad-Brushed
+=====
+![](https://github.com/SZ-MXK/MXK-F722-Quad-Brushed/blob/master/picture/1_1(1).jpg)
 FC Specifications <br>
 =====
 MCU: 216MHz STM32F722 <br>
