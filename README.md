@@ -1,8 +1,7 @@
 
 
 FC Specifications <br>
-
-
+=====
 MCU: 216MHz STM32F722 <br>
 IMU: MPU6000 accelerometer/gyro <br>
 Baro: BMP280 <br>
@@ -23,10 +22,10 @@ Input voltage range: 1~2S LiPo <br>
 
 
 FC Firmware <br>
-
+=====
 betaflight <br>
 
 Physical <br>
-
+=====
 Dimensions: 102X86mm <br>
 Weight: 9g <br>
